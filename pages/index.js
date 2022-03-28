@@ -35,7 +35,7 @@ export default function Home({ allPostsData }) {
       </Head>
 
       <section className={utilStyles.headingMd}>
-        <p>私はインチキのにしやんです。インチキポスターを販売しています。</p>
+        <p>私はインチキのにしやんです。インチキポスターを販売して逮捕されました。</p>
       </section>
 
       <section>
